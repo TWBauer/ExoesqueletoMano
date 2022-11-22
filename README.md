@@ -260,7 +260,11 @@ Como se mencionó anteriormente las rutinas predefinidas pueden ser editadas seg
 
 ## Estructura del exoesqueleto
 
-**![](https://lh4.googleusercontent.com/V-fbIXRT4tHD0ixbl50rz4j3xohAnx15ZnGNyIwQfCXaPMARqZWv3ecfemOjGYCGRNv-B1mkMx8V09kAWseACMQqL5Cb0F456Z9rbfHSVTBpK2kNLP1YzvALZsiHmk267u97TzBVoIST2WwiBn5suhfylG-gs1692LGGfNWcFjy2W33YFkpBZwOSJi4BwQ)**
+<p align='center'>
+  
+    <img src="https://TWBauer/ExoesqueletoMano/blob/master/Documents/imagenes/Exo.gif" alt="" width="400"/>
+
+</p>
 
 
 
