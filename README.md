@@ -258,6 +258,10 @@ Con estos valores asignados en los condicionales de if se tiene que cuando el pa
 
 Como se mencionó anteriormente las rutinas predefinidas pueden ser editadas según la necesidad del paciente.
 
+## Estructura del exoesqueleto
+
+**![](https://lh4.googleusercontent.com/V-fbIXRT4tHD0ixbl50rz4j3xohAnx15ZnGNyIwQfCXaPMARqZWv3ecfemOjGYCGRNv-B1mkMx8V09kAWseACMQqL5Cb0F456Z9rbfHSVTBpK2kNLP1YzvALZsiHmk267u97TzBVoIST2WwiBn5suhfylG-gs1692LGGfNWcFjy2W33YFkpBZwOSJi4BwQ)**
+
 
 [Video Funcionamiento](https://youtu.be/b8-GNEayS-k)
 
