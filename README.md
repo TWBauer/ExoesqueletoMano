@@ -263,6 +263,16 @@ Como se mencionó anteriormente las rutinas predefinidas pueden ser editadas seg
 **![](https://lh4.googleusercontent.com/V-fbIXRT4tHD0ixbl50rz4j3xohAnx15ZnGNyIwQfCXaPMARqZWv3ecfemOjGYCGRNv-B1mkMx8V09kAWseACMQqL5Cb0F456Z9rbfHSVTBpK2kNLP1YzvALZsiHmk267u97TzBVoIST2WwiBn5suhfylG-gs1692LGGfNWcFjy2W33YFkpBZwOSJi4BwQ)**
 
 
+
+
+<div>
+<p style = 'text-align:center;'>
+<iframe width="600" height = "420"
+src="https://youtu.be/b8-GNEayS-k">
+</iframe>
+</div>
+</p>
+
 [Video Funcionamiento](https://youtu.be/b8-GNEayS-k)
 
 
