@@ -260,10 +260,8 @@ Como se mencionó anteriormente las rutinas predefinidas pueden ser editadas seg
 
 ## Estructura del exoesqueleto
 
-<p align='center'>
-  
-    <img src="https://TWBauer/ExoesqueletoMano/blob/master/Documents/imagenes/Exo.gif" alt="" width="400"/>
-
+<p align='left'>
+    <img src="https://github.com/TWBauer/ExoesqueletoMano/Documents/imagenes/Exo.gif" alt="drawing" width="400"/>
 </p>
 
 
