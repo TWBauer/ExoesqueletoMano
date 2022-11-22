@@ -266,11 +266,6 @@ Como se mencionó anteriormente las rutinas predefinidas pueden ser editadas seg
 
 
 
-
-<iframe width="600" height = "420"
-src="https://youtu.be/b8-GNEayS-k">
-</iframe>
-
 [Video Funcionamiento](https://youtu.be/b8-GNEayS-k)
 
 
