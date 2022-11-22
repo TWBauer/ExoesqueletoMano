@@ -265,13 +265,9 @@ Como se mencionó anteriormente las rutinas predefinidas pueden ser editadas seg
 
 
 
-<div>
-<p style = 'text-align:center;'>
 <iframe width="600" height = "420"
 src="https://youtu.be/b8-GNEayS-k">
 </iframe>
-</div>
-</p>
 
 [Video Funcionamiento](https://youtu.be/b8-GNEayS-k)
 
