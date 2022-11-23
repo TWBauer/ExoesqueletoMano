@@ -11,6 +11,14 @@ Para correr cualquiera de los archivos de este proyecto lo único que es necesar
 ![enter image description here](https://cdn.pixabay.com/photo/2017/03/23/12/32/arduino-2168193__480.png)
 
 
+ - Arduino Uno con su respectivo cable usb.
+ - 2 drivers de motorreductor MD08A.
+ - Sensor EMG-Grove o alguno con las mismas conexiones.
+ - Power Bank 5v
+ - 5 Motorreductores (Uno para cada dedo, conseguir motores de la misma relación y que puedan trabajar a un voltaje de 5v).
+ - Electrodos desechables
+ - Alcohol y algodón (Es importante limpiar bien la zona donde se van a ubicar los electrodos)
+
 
 ## Algoritmo y funcionamiento
 
@@ -265,10 +273,28 @@ Como se mencionó anteriormente las rutinas predefinidas pueden ser editadas seg
 
 ## Circuito
 
-**![](https://lh3.googleusercontent.com/PR2iac9Awa7Zw1z4xWJwD-tOg7qsx3iZW8_-CK3ccp9FCRDFZ6TigjzsKp8HcR79TPmLikAXTnsdxEQbM3DKmUbVucZh-KS_0fSpuzPlxIxnTRGZ22xPNuuem8fv6oGiDE9INu4RCXthr9mxZsHKN3rHGyiWewZvNu2A3kZ0lZ-iD-w52ZAGInoEmNYM7g)**
+![](https://lh3.googleusercontent.com/PR2iac9Awa7Zw1z4xWJwD-tOg7qsx3iZW8_-CK3ccp9FCRDFZ6TigjzsKp8HcR79TPmLikAXTnsdxEQbM3DKmUbVucZh-KS_0fSpuzPlxIxnTRGZ22xPNuuem8fv6oGiDE9INu4RCXthr9mxZsHKN3rHGyiWewZvNu2A3kZ0lZ-iD-w52ZAGInoEmNYM7g)**
+[Link circuito en ThinkerCad](https://www.tinkercad.com/things/4S0vAhQ713M) (Leer las anotaciones)
 
 [Video Funcionamiento](https://youtu.be/b8-GNEayS-k)
 
+## Ubicacion de los electrodos
+
+Para ubicar los electrodos es necesario limpiar la zona muy bien con alcohol y un algodon.
+
+El primer electrodo estara ubicado en la zona del musculo flexor del pulgar que se encuentra debajo de la muñeca en el mismo lado donde se encuentra ubicado el pulgar.
+
+![](https://lh4.googleusercontent.com/eJxdJZhEUxZd8WoboDAg7kCrU-ybYyRyHYRUBHkqRw7GIVvFTgrK3cm1tsaSeDerj_5o-OyvSjerNyBJo1wKIA4tzqcoC_L16P4y_sVVhHpx5CAsDFR6gjCvVSVwRE0qd-iD7rmSigVjorVc0bmOfYNYvn9msXsuSGHyNUQOMY8qL9_vVomVjXWmNCIsSA)**
+
+El segundo electro lo ubicaremos en la zona de el musculo flexor de los dedos, este se encuentra ubicado en la parte posterior al brazo antes de llegar al codo.
+
+**![](https://lh3.googleusercontent.com/zHrQjnmbSmQ3hQbCO6ygLEwUK3_PGUtEVX8y8WU3ZqodOZLvLz4Viwzv1CEYCNpjdVbGslBKE-_2FIOnhYCwtMXruKtZaF2w9gZwoQRHzf9xfMKXiS8NcZVwhRFSBRm76jWmCZSSbiwiFQ2QWFf-dIJMQKVLYD1xHCC3sPN4Rx6i0xq2azFyfymU0iyuuA)**
+
+El ultimo electrodo va a ser nuestra referencia por los cual lo ubicaremos en la zona del codo en donde va a estar en contacto con la zona donde se encuentra el hueso.
+
+Al final los electrodos deberian estar ubicados de la siguiente manera:
+
+**![](https://lh3.googleusercontent.com/V7_5PJVyiXOhgc0yefxu2NqakRXfSTVlGYsE19VeUpY0VBIqedXWbLTO-Q6i3xXmQpMdVOhILvaN38QN7HsDJ3pm1Ol5hkJuWghZOtflEnSFLoaCqjn_Hc7EBSGR2tpG77YtWZvKZjbkRvx_Vs8jXjouBTZ__DPxW6c5r7pYncVPtV1DfN4VS4Zmqq8ELg)**
 
 ## Autores
 
