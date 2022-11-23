@@ -263,7 +263,9 @@ Como se mencionó anteriormente las rutinas predefinidas pueden ser editadas seg
 
 <img src="https://media.giphy.com/media/mjZVZZ7VlJuKo5hcr0/giphy.gif" width="600" height="400" />
 
+## Circuito
 
+**![](https://lh3.googleusercontent.com/PR2iac9Awa7Zw1z4xWJwD-tOg7qsx3iZW8_-CK3ccp9FCRDFZ6TigjzsKp8HcR79TPmLikAXTnsdxEQbM3DKmUbVucZh-KS_0fSpuzPlxIxnTRGZ22xPNuuem8fv6oGiDE9INu4RCXthr9mxZsHKN3rHGyiWewZvNu2A3kZ0lZ-iD-w52ZAGInoEmNYM7g)**
 
 [Video Funcionamiento](https://youtu.be/b8-GNEayS-k)
 
