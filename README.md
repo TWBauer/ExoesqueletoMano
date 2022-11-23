@@ -269,7 +269,7 @@ Como se mencionó anteriormente las rutinas predefinidas pueden ser editadas seg
 ## Estructura del exoesqueleto
 
 
-<img src="https://media.giphy.com/media/mjZVZZ7VlJuKo5hcr0/giphy.gif" width="700" height="600" />
+<img src="https://media.giphy.com/media/mjZVZZ7VlJuKo5hcr0/giphy.gif" width="900" height="600" />
 
 ## Circuito
 
