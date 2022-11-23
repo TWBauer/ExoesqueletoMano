@@ -276,7 +276,7 @@ Como se mencionó anteriormente las rutinas predefinidas pueden ser editadas seg
 ![](https://lh3.googleusercontent.com/PR2iac9Awa7Zw1z4xWJwD-tOg7qsx3iZW8_-CK3ccp9FCRDFZ6TigjzsKp8HcR79TPmLikAXTnsdxEQbM3DKmUbVucZh-KS_0fSpuzPlxIxnTRGZ22xPNuuem8fv6oGiDE9INu4RCXthr9mxZsHKN3rHGyiWewZvNu2A3kZ0lZ-iD-w52ZAGInoEmNYM7g)**
 [Link circuito en ThinkerCad](https://www.tinkercad.com/things/4S0vAhQ713M) (Leer las anotaciones)
 
-
+**![](https://lh6.googleusercontent.com/pQeZtwMsb656gL4kHLmfoBvvI9JyZwMdpkR8GxBUl6-sbPWzB2jdZhX3-9GIBVT81X7CQ80tfydjNu5OjvcT8ZGUJxE3WUWjzW55tV0wl1cBB1ZCzOR1DcRmsD09CoDeWlIHca9q5OyCsauqE__dPiPtEb2l4ES84FnhpE2rSgqMhK3erfyFciljAahtOA)**
 
 ## Ubicacion de los electrodos
 
