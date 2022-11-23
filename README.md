@@ -298,7 +298,7 @@ Al final los electrodos deberian estar ubicados de la siguiente manera:
 
 ## Autores
 
-Kevin Santiago Montaña
-José Leider Bazurto
-Steve Daniel Rincón
-Manuel Alejandro Pita
+-Kevin Santiago Montaña
+-José Leider Bazurto
+-Steve Daniel Rincón
+-Manuel Alejandro Pita
