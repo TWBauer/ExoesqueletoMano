@@ -276,7 +276,7 @@ Como se mencionó anteriormente las rutinas predefinidas pueden ser editadas seg
 ![](https://lh3.googleusercontent.com/PR2iac9Awa7Zw1z4xWJwD-tOg7qsx3iZW8_-CK3ccp9FCRDFZ6TigjzsKp8HcR79TPmLikAXTnsdxEQbM3DKmUbVucZh-KS_0fSpuzPlxIxnTRGZ22xPNuuem8fv6oGiDE9INu4RCXthr9mxZsHKN3rHGyiWewZvNu2A3kZ0lZ-iD-w52ZAGInoEmNYM7g)**
 [Link circuito en ThinkerCad](https://www.tinkercad.com/things/4S0vAhQ713M) (Leer las anotaciones)
 
-[Video Funcionamiento](https://youtu.be/b8-GNEayS-k)
+
 
 ## Ubicacion de los electrodos
 
@@ -296,9 +296,11 @@ Al final los electrodos deberian estar ubicados de la siguiente manera:
 
 **![](https://lh3.googleusercontent.com/V7_5PJVyiXOhgc0yefxu2NqakRXfSTVlGYsE19VeUpY0VBIqedXWbLTO-Q6i3xXmQpMdVOhILvaN38QN7HsDJ3pm1Ol5hkJuWghZOtflEnSFLoaCqjn_Hc7EBSGR2tpG77YtWZvKZjbkRvx_Vs8jXjouBTZ__DPxW6c5r7pYncVPtV1DfN4VS4Zmqq8ELg)**
 
+[Video Funcionamiento](https://youtu.be/b8-GNEayS-k)
+
 ## Autores
 
--Kevin Santiago Montaña
--José Leider Bazurto
--Steve Daniel Rincón
--Manuel Alejandro Pita
+ - Kevin Santiago Montaña
+ - José Leider Bazurto
+ - Steve Daniel Rincón
+ - Manuel Alejandro Pita
